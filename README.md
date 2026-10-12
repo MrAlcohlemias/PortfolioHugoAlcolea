@@ -20,3 +20,6 @@ Importa este repositorio. Framework: **Other**. No necesita instalación ni coma
 Contacto: `alcoleayt@gmail.com`, `+34 696 045 259`. Los enlaces abren el correo, el teléfono o WhatsApp del visitante; no hay formulario ni backend, ni se guardan consultas. Solo se recuerda el idioma en localStorage. Las tipografías se cargan desde Google Fonts con fuentes del sistema como alternativa.
 
 La edad en la presentación está fijada a 22 años y deberá actualizarse cuando corresponda. No se incluyen testimonios, métricas ni resultados comerciales no verificados.
+
+
+El logotipo «ha» está disponible en `logo-ha-gmail-github.png`, en PNG cuadrado de 1024 × 1024 para perfiles.
